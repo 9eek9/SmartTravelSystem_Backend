@@ -173,7 +173,7 @@ http://127.0.0.1:8000/docs
 Graduate Certificate in Artificial Intelligence & Machine Learning  
 Fanshawe College | London, Ontario, Canada  
 
-📧 [LinkedIn](www.linkedin.com/in/ei-khaing-42595028)  
+📧 [LinkedIn](https://www.linkedin.com/in/ei-khaing-42595028)  
 🔗 [GitHub Portfolio](https://github.com/9eek9)
 
 ---
