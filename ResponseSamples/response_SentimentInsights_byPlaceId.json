@@ -1,0 +1,32 @@
+{
+    "place_id": "ChIJE-Xa87o0K4gRkvXFHuE0hMk",
+    "num_reviews": 5,
+    "summary": "100.0% of reviews are positive with an average score of +1.00.",
+    "avg_score": 1.0,
+    "positive_ratio": 100.0,
+    "keywords": [
+        "rom",
+        "time",
+        "museum",
+        "visit",
+        "easy"
+    ],
+    "human_summary": "Visitors consistently praise the ROM as a world-class museum offering diverse and engaging exhibits, where it's easy to spend a significant amount of time learning and exploring.",
+    "samples": [
+        {
+            "text": "My best friend and I arrived here for the free Tuesday night at the rom and where pleasantly surprised by the orderly way I. Which ticket holders entered the museum, it was swift and easy and we were on having fun in no time!\n\nThe ROM is an immaculately curated space that can actually take a very long time to get through when it comes to viewing exhibits. I was born and raised here in Toronto and I’ve still yet to see all of the ROM in its entirety.\n\nThis is what makes it worth the price. Every exhibit is thought out and so well put together with care and attention to detail. Every time I am at the rom I learn so many new things about the world and the layout of the rom makes learning to information seamless and easy.\n\nWashrooms and water fountains are very easy to find and in abundance so I was never panicked trying to look around for a washroom. The ROM also has new all gendered washrooms which are luxurious and a great addition to this museum. There is great accessibility here and the elevators and seats are always easy to find.\n\nI typically avoid the cafes and cafeterias here as they can be quite overpriced but it’s been a long time since I visited the cafe so it could’ve changed…\n\nOverall I always enjoy my time at the ROM and recommend you book a ticket weather you are a newcomer or someone familiar to the city, give it a try!",
+            "label": "POSITIVE",
+            "score": 0.999
+        },
+        {
+            "text": "There's a lot going on here. If you are really into museums and want to look at most things then plan to spend four or more hours here. There's dedication to natural history for animals and civilizations. Good assortment of unique pieces.  There is a lot of pottery, more than you'd think for sure. The collection of Greek and Roman busts is impressive along with the number of tombs. The dinosaur exhibit wasn't able to be fully seen due to renovations.",
+            "label": "POSITIVE",
+            "score": 0.998
+        },
+        {
+            "text": "The Royal Ontario Museum (ROM) is a spectacular world-class institution that makes for an unforgettable day out in Toronto. Its collection is unbelievably diverse, spanning natural history (hello, incredible dinosaurs and gems!) and world culture (from ancient Egypt to the Ming Dynasty Tombs). The architecture alone is worth the visit, famously blending the grand, historic Neo-Romanesque brickwork with the striking, angular modern glass of the Michael Lee-Chin Crystal—it’s a visual feast inside and out. With forty different galleries, you can easily spend a full afternoon (at least 3-4 hours) exploring, learning about everything from the Burgess Shale fossils to African art. The ROM is constantly evolving with fascinating new exhibits and is definitely a must-see landmark for anyone visiting the city.",
+            "label": "POSITIVE",
+            "score": 1.0
+        }
+    ]
+}
